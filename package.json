@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "portfolio website built using the Freelancer theme for Bootstrap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/garber34/garber34.github.io.git"
+  },
+  "author": "Jeff Garber",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/garber34/garber34.github.io/issues"
+  },
+  "homepage": "https://github.com/garber34/garber34.github.io#readme"
+}
